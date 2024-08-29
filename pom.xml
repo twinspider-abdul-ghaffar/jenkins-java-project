@@ -45,11 +45,6 @@
 		<name>Maven.org</name>
 		<url>https://repo1.maven.org/maven2</url>
 	    </pluginRepository>
-	    <pluginRepository>
-	       <groupId>org.sonarsource.scanner.maven</groupId>
-	       <artifactId>sonar-maven-plugin</artifactId>
-	       <version>4.0.0.2929</version>
-	     </pluginRepository>
 	</pluginRepositories>
 
 	
